@@ -1,4 +1,4 @@
-# PetAdoptionDapp
+# Pet Adoption Dapp (Decentralized application) with truffle suite and web3 on the ethereum blockchain
 ### Truffle Tutorial
 * Setting up the development environment
 * Creating a Truffle project using a Truffle Box
